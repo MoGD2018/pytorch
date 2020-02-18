@@ -1,6 +1,3 @@
----
-typora-copy-images-to: img
----
 
 # Datawhale第10期组队学习活动笔记——Task03-Task05
 
